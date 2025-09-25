@@ -60,7 +60,7 @@ Currently focusing on **Node.js backend development** and **Data Engineering**.
 
 ## 🌐 Connect With Me  
 
-- 💼 https://www.linkedin.com/in/kerolloss/  
+- 💼 [(https://www.linkedin.com/in/kerolloss/)](#)  
 - 📧 Email: kerollloss@gmail.com
   
 
