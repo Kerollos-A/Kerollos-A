@@ -1,51 +1,91 @@
-# 🌟 Hi, I’m Kero 👋  
+# 👋 Hi, I’m Kerollos Abdo 
 
-🚀 **Backend Developer | Data Engineer | Tech Enthusiast**  
+🚀 **Backend & Data Engineer (Node.js | Python | SQL)**  
 
 I’m passionate about building scalable backend systems and efficient data pipelines.  
-Currently focusing on **Node.js backend development** and **Data Engineering**.  
+With a strong foundation in **Node.js, SQL, and Python**, I design RESTful APIs, manage relational databases, and develop ETL workflows for analytics and machine learning projects.  
 
 ---
 
-## 🔧 Tech Stack  
+## 🔧 Skills  
 
-**Languages:**  
-- JavaScript (ES6+), Node.js, Python, SQL, Java (learning)  
+**Backend Development**  
+- Node.js (Express.js), RESTful APIs  
+- Authentication & CRUD operations  
+- MySQL, PostgreSQL  
+- Git & Version Control, Clean Code  
 
-**Frameworks & Tools:**  
-- Express.js, REST APIs  
-- Git, GitHub, Linux, Docker  
-- Pandas, NumPy, scikit-learn  
+**Data Engineering**  
+- SQL (Joins, Indexing, Stored Procedures, Optimization)  
+- Python (Data Preprocessing, Automation)  
+- ETL Pipelines, Data Modeling  
+- Machine Learning Basics (Random Forest, Logistic Regression)  
 
-**Databases:**  
-- MySQL, PostgreSQL, MongoDB  
-
-**Cloud & Big Data:**  
+**Cloud & Tools**  
 - AWS (Cloud Foundations Certified)  
-- Data Pipelines, ETL, IoT Integrations  
+- Docker (basic)  
+
+**Soft Skills**  
+- Time Management | Problem-Solving | Team Collaboration  
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Projects  
 
-🔹 **Smart ERP System (IoT Integrated)**  
-- Graduation project integrating IoT with ERP to improve data flow.  
-- Applied **predictive weather analysis + anomaly detection + logistic regression**.  
+🔹 **Database for Tech Company**  
+- Designed a relational database model to manage all critical company information.  
 
-🔹 **Walmart Sales Data Analysis**  
-- Designed a pipeline for analyzing supply & demand around holidays.  
-- Focused on **ETL workflows and feature engineering**.  
+🔹 **Eligibility Prediction for Loan**  
+- Built a loan eligibility model using **Random Forest**.  
+- Implemented preprocessing, hyperparameter tuning, and evaluation (ROC & AUC).  
 
-🔹 **Bead Bags Business Support**  
-- Helped a small startup with **marketing automation & digital presence**.  
+🔹 **Insurance Upgrades for Travel Assured**  
+- Cleaned & corrected customer data for a U.S.-based travel provider.  
+- Prepared datasets for a targeted insurance promotion campaign.  
+
+🔹 **API Development with Node.js** *(in progress)*  
+- Designing RESTful APIs for managing users & products.  
+- Implemented CRUD operations with MySQL integration.  
 
 ---
 
-## 🎓 Certifications & Learning  
+## 🎓 Education  
 
-- 🎖️ AWS Academy Graduate – **Cloud Foundations**  
-- 📚 Currently reviewing: *“The Complete JavaScript Course” (Jonas Schmedtmann)*  
-- 🚀 Next step: **Node.js backend specialization**  
+🎓 **Faculty of Computers & Artificial Intelligence, University of Sadat City**  
+- B.Sc. in Computer Science, GPA: **3.15** (2020 – 2024)  
+
+📚 **Self-Study**  
+- Backend Development (Node.js Path), 2025 – Present  
+
+📜 **DataCamp**  
+- Associate Data Engineer (2024 – 2026)  
+
+---
+
+## 🏅 Certifications  
+
+- 🎖️ Associate Data Engineer – DataCamp  
+- 🗄️ Databases & SQL for Data Science with Python  
+- 📊 Become a Data Analyst  
+- 🤖 Supervised Machine Learning (Regression & Classification)  
+- 🌐 Web Development Challenger Track (FWD)  
+- 🛠️ Technical Support Fundamentals (Google/IBM)  
+
+---
+
+## 📚 Courses in Progress  
+
+- The Complete JavaScript Course 2024 – Jonas Schmedtmann  
+- Node.js, Express, MongoDB & More: The Complete Bootcamp 2024 – Jonas Schmedtmann  
+- IBM Data Science Professional Certificate (IBM)  
+
+---
+
+## 💼 Internships  
+
+- **Data Science Intern – CodeClause (Aug–Sep 2023)**  
+- **Data Science Intern – CodSoft (Aug–Sep 2023)**  
+- **AI Intern – National Telecommunication Institute (Jul–Aug 2023)**  
 
 ---
 
@@ -60,9 +100,9 @@ Currently focusing on **Node.js backend development** and **Data Engineering**.
 
 ## 🌐 Connect With Me  
 
-- 💼 [(https://www.linkedin.com/in/kerolloss/)](#)  
-- 📧 Email: kerollloss@gmail.com
-  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kerolloss)  
+- 📧 Email: **kerollloss@gmail.com**  
+- 📱 Phone: **+20 1208988956**  
 
 ---
 
