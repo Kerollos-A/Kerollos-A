@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Kerollos Abdo 
+# Hi, I’m Kerollos Abdo 
 
-🚀 **Backend & Data Engineer (Node.js | Python | SQL)**  
+**Backend & Data Engineer (Node.js | Python | SQL)**  
 
 I’m passionate about building scalable backend systems and efficient data pipelines.  
 With a strong foundation in **Node.js, SQL, and Python**, I design RESTful APIs, manage relational databases, and develop ETL workflows for analytics and machine learning projects.  
