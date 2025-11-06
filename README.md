@@ -44,7 +44,7 @@ A browser-based multiplayer dice game implemented with pure JavaScript, HTML, an
 ---
 
 ## GitHub Stats
-![Kerollos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerollos-A&show_icons=true&theme=default)
+![Kerollos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerollos-A&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerollos-A&layout=compact)
 
 ---
