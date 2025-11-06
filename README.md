@@ -68,6 +68,14 @@ A **browser-based multiplayer dice game** implemented with **pure JavaScript, HT
 ---
 
 ### Contact
-**Email:** [kerollloss@gmail.com](mailto:kerollloss@gmail.com)  
-**LinkedIn:** [linkedin.com/in/kerolloss](https://www.linkedin.com/in/kerolloss/)  
-**Portfolio:** [kerollos-a.github.io/Portfolio](https://kerollos-a.github.io/Portfolio/)
+<p align="center">
+  <a href="mailto:kerollloss@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kerolloss/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://kerollos-a.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
