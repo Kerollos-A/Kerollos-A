@@ -1,109 +1,55 @@
-# Hi, I’m Kerollos Abdo 
+# Hi, I'm Kerollos Abdo
 
-**Backend & Data Engineer (Node.js | Python | SQL)**  
-
-I’m passionate about building scalable backend systems and efficient data pipelines.  
-With a strong foundation in **Node.js, SQL, and Python**, I design RESTful APIs, manage relational databases, and develop ETL workflows for analytics and machine learning projects.  
-
----
-
-## 🔧 Skills  
-
-**Backend Development**  
-- Node.js (Express.js), RESTful APIs  
-- Authentication & CRUD operations  
-- MySQL, PostgreSQL  
-- Git & Version Control, Clean Code  
-
-**Data Engineering**  
-- SQL (Joins, Indexing, Stored Procedures, Optimization)  
-- Python (Data Preprocessing, Automation)  
-- ETL Pipelines, Data Modeling  
-- Machine Learning Basics (Random Forest, Logistic Regression)  
-
-**Cloud & Tools**  
-- AWS (Cloud Foundations Certified)  
-- Docker (basic)  
-
-**Soft Skills**  
-- Time Management | Problem-Solving | Team Collaboration  
+## About Me
+I’m a Data Engineering and Backend Development enthusiast who enjoys building data-driven and scalable systems.  
+With a background in Computer Science and a focus on Node.js, Express, and MongoDB, I aim to create efficient backend solutions and meaningful data integrations.
 
 ---
 
-## 📂 Projects  
-
-🔹 **Database for Tech Company**  
-- Designed a relational database model to manage all critical company information.  
-
-🔹 **Eligibility Prediction for Loan**  
-- Built a loan eligibility model using **Random Forest**.  
-- Implemented preprocessing, hyperparameter tuning, and evaluation (ROC & AUC).  
-
-🔹 **Insurance Upgrades for Travel Assured**  
-- Cleaned & corrected customer data for a U.S.-based travel provider.  
-- Prepared datasets for a targeted insurance promotion campaign.  
-
-🔹 **API Development with Node.js** *(in progress)*  
-- Designing RESTful APIs for managing users & products.  
-- Implemented CRUD operations with MySQL integration.  
+## Languages
+- JavaScript  
+- Python  
+- SQL  
+- Java
 
 ---
 
-## 🎓 Education  
-
-🎓 **Faculty of Computers & Artificial Intelligence, University of Sadat City**  
-- B.Sc. in Computer Science, GPA: **3.15** (2020 – 2024)  
-
-📚 **Self-Study**  
-- Backend Development (Node.js Path), 2025 – Present  
-
-📜 **DataCamp**  
-- Associate Data Engineer (2024 – 2026)  
+## Tech Stack
+- Node.js  
+- Express.js  
+- MongoDB & Mongoose  
+- RESTful APIs  
+- Git & GitHub  
+- HTML, CSS  
+- Data Engineering Tools: Pandas, NumPy, ETL Pipelines
 
 ---
 
-## 🏅 Certifications  
-
-- 🎖️ Associate Data Engineer – DataCamp  
-- 🗄️ Databases & SQL for Data Science with Python  
-- 📊 Become a Data Analyst  
-- 🤖 Supervised Machine Learning (Regression & Classification)  
-- 🌐 Web Development Challenger Track (FWD)  
-- 🛠️ Technical Support Fundamentals (Google/IBM)  
+## Codewars Stats
+![Codewars](https://www.codewars.com/users/Kero-Abdo/badges/large)
 
 ---
 
-## 📚 Courses in Progress  
+## Featured Projects
 
-- The Complete JavaScript Course 2024 – Jonas Schmedtmann  
-- Node.js, Express, MongoDB & More: The Complete Bootcamp 2024 – Jonas Schmedtmann  
-- IBM Data Science Professional Certificate (IBM)  
+### [CodeClause_Fake_News](https://github.com/Kerollos-A/CodeClause_Fake_News)
+A machine learning project designed to detect fake news using NLP techniques and logistic regression models.
 
----
+### [Js-game-project-Guess-My-Number](https://github.com/Kerollos-A/Js-game-project-Guess-My-Number)
+A simple JavaScript-based guessing game built while mastering core JS concepts.
 
-## 💼 Internships  
-
-- **Data Science Intern – CodeClause (Aug–Sep 2023)**  
-- **Data Science Intern – CodSoft (Aug–Sep 2023)**  
-- **AI Intern – National Telecommunication Institute (Jul–Aug 2023)**  
+### [Pig-Game-JS](https://github.com/Kerollos-A/Pig-Game-JS)
+A browser-based multiplayer dice game implemented with pure JavaScript, HTML, and CSS.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kerollos-A&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kerollos-A&theme=tokyonight" alt="GitHub Streak" />
-</p>  
+## GitHub Stats
+![Kerollos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerollos-A&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerollos-A&layout=compact)
 
 ---
 
-## 🌐 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kerolloss)  
-- 📧 Email: **kerollloss@gmail.com**  
-- 📱 Phone: **+20 1208988956**  
-
----
-
-✨ *“Code, Learn, Build, Repeat.”*  
+## Contact
+Email: [kerollloss@gmail.com](mailto:kerollloss@gmail.com)  
+LinkedIn: [linkedin.com/in/kerolloss](https://www.linkedin.com/in/kerolloss/)  
+Portfolio: [kerollos-a.github.io/Portfolio](https://kerollos-a.github.io/Portfolio/)
